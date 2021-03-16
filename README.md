@@ -1,5 +1,5 @@
 # Hello Flask
-Make a simple web application Using Flask in Python 3
+Make a simple web application using Flask in Python 3
 
 # Reference
 1. https://pythonspot.com/flask-web-app-with-python/
