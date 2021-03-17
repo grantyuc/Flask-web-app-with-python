@@ -1,5 +1,5 @@
 # Hello Flask
-Make a simple web application using Flask in Python 3
+Make a simple web application (blog) using Flask in Python 3
 
 # Usage
 ```bash
